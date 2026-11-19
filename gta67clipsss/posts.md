@@ -61,3 +61,25 @@ Title: Когда в GTA 6 нечего надеть 😭
 Caption: Гардероб есть, одежды нет 😭 GTA 6
 🎥 bratishkinoff (twitch.tv/bratishkinoff)
 #gta6 #гта6 #братишкин #bratishkinoff #нарезки
+
+# Russian-language clips: shadowkekw (twitch.tv/shadowkekw)
+
+Files: `media/edits/shadow_*.mp4` (clean) and `media/edits_ad/shadow_*_ad.mp4` (with the RubUP banner).
+
+## 6. shadow_dead
+Title: Умер в GTA 6: «я настрелялся, честно» 💀
+Caption: Когда в GTA 6 умер и сразу сдался 💀
+🎥 shadowkekw (twitch.tv/shadowkekw)
+#gta6 #гта6 #shadowkekw #шадоукек #нарезки
+
+## 7. shadow_npc_bug
+Title: NPC в GTA 6 забагалась и не садится в машину 😭
+Caption: Rockstar, она забагалась 😭 GTA 6
+🎥 shadowkekw (twitch.tv/shadowkekw)
+#gta6 #гта6 #shadowkekw #шадоукек #нарезки
+
+## 8. shadow_cockfight
+Title: «Я никогда не видела куриных боёв» 🐓 GTA 6
+Caption: GTA 6 и куриные бои 🐓
+🎥 shadowkekw (twitch.tv/shadowkekw)
+#gta6 #гта6 #shadowkekw #шадоукек #нарезки
